@@ -13,7 +13,9 @@ function App() {
 
     });
   }
-  
+  useEffect(()=>{
+    getQuote();
+  })
   return (
     <div className="App">
       <button onClick={getQuote}>Get Quote</button>
