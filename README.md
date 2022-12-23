@@ -13,7 +13,7 @@
 ![image](./quote.png)
 
 ## Description
-When user enter "Get Quote" button, app is produced a new quote.
+When user enter "Get Quote" button, app produces a new quote.
 
 ## Overview
 I mastered HTML, CSS, Javascript and React features in this project. You can see the visual representation of the app above.
